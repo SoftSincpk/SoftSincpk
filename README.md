@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/Website-softsincpk.com-0A192F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://softsincpk.com)
 [![Email](https://img.shields.io/badge/Email-info@softsincpk.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@softsincpk.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@softsinc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/softsinc)
+[![Instagram](https://img.shields.io/badge/Instagram-@softsincpk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/softsincpk)
 
 ---
 
